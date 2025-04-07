@@ -57,4 +57,4 @@ The Laundry Management System is designed to simplify laundry operations by auto
 1️⃣ **Clone the Repository**
 
 ```bash
-git clone 
+git clone https://github.com/Ananya-Peddamgari/Laundry-Management-system-Web-application.git 
